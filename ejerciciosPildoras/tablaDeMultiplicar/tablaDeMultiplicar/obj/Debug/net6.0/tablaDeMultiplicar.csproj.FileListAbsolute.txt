@@ -1,0 +1,15 @@
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\bin\Debug\net6.0\tablaDeMultiplicar.exe
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\bin\Debug\net6.0\tablaDeMultiplicar.deps.json
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\bin\Debug\net6.0\tablaDeMultiplicar.runtimeconfig.json
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\bin\Debug\net6.0\tablaDeMultiplicar.dll
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\bin\Debug\net6.0\tablaDeMultiplicar.pdb
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.csproj.AssemblyReference.cache
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.AssemblyInfo.cs
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.dll
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\refint\tablaDeMultiplicar.dll
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.pdb
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\tablaDeMultiplicar.genruntimeconfig.cache
+C:\Users\eucof\source\repos\tablaDeMultiplicar\tablaDeMultiplicar\obj\Debug\net6.0\ref\tablaDeMultiplicar.dll

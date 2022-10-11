@@ -1,0 +1,15 @@
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\bin\Debug\net6.0\ArraysVfor.exe
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\bin\Debug\net6.0\ArraysVfor.deps.json
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\bin\Debug\net6.0\ArraysVfor.runtimeconfig.json
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\bin\Debug\net6.0\ArraysVfor.dll
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\bin\Debug\net6.0\ArraysVfor.pdb
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.csproj.AssemblyReference.cache
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.AssemblyInfoInputs.cache
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.AssemblyInfo.cs
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.csproj.CoreCompileInputs.cache
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.dll
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\refint\ArraysVfor.dll
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.pdb
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ArraysVfor.genruntimeconfig.cache
+C:\Users\eucof\source\repos\ArraysVfor\ArraysVfor\obj\Debug\net6.0\ref\ArraysVfor.dll

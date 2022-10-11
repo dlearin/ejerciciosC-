@@ -1,0 +1,15 @@
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\bin\Debug\net6.0\Herencias.V42-43.exe
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\bin\Debug\net6.0\Herencias.V42-43.deps.json
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\bin\Debug\net6.0\Herencias.V42-43.runtimeconfig.json
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\bin\Debug\net6.0\Herencias.V42-43.dll
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\bin\Debug\net6.0\Herencias.V42-43.pdb
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.csproj.AssemblyReference.cache
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.AssemblyInfoInputs.cache
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.AssemblyInfo.cs
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.csproj.CoreCompileInputs.cache
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.dll
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\refint\Herencias.V42-43.dll
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.pdb
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\Herencias.V42-43.genruntimeconfig.cache
+C:\Users\eucof\source\repos\Herencias.V42-43\Herencias.V42-43\obj\Debug\net6.0\ref\Herencias.V42-43.dll
